@@ -1,3 +1,6 @@
+### Note: This was mini project for Data Structures and Algorithm Course - NMAMIT
+
+
 # Word Dictionary using Trie data structure
 
 Using a Trie data structure for storing a word dictionary has several advantages over using a direct dictionary (hashmap) where words are mapped to their meanings:
